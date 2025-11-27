@@ -34,7 +34,7 @@ This document provides a short guide for making contributions, and lists of cont
 - Tosin-Aworekun Convenant(Github username:Tosin-co)  — Project Lead 
 - Oyekan Olwatoromo Boluwatife(Github username:Mayo-tb)  — Backend / API 
 - Uduma Godwin Rolland(Github username:rolly-GIT /MAC) ,Poyi Vincent Shekwokuzhingami(Github username:Zhingami)  — Frontend 
-- Praise Israel(Github username:ISchindi) , Udom Great Richard (Github username:GREAT-UDOM)  — Documentation 
+- Praise Israel(Github username:Ischindi101) , Udom Great Richard (Github username:GREAT-UDOM)  — Documentation 
 - Oyewumi Damilare(Github username:Damilare186) , Oyebanji Opetosoluwa Emmanuel(Github username:Xavane) — UI/UX design
 
 ## Contact
