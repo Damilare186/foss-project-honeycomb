@@ -35,7 +35,7 @@ This document provides a short guide for making contributions, and lists of cont
 - Oyekan Olwatoromo Boluwatife(Github username:Mayo-tb)  — Backend / API 
 - Uduma Godwin Rolland(Github username:rolly-GIT /MAC) ,Poyi Vincent Shekwokuzhingami(Github username:Zhingami)  — Frontend 
 - Praise Israel(Github username:ISchindi) , Udom Great Richard (Github username:GREAT-UDOM)  — Documentation 
-- Oyewumi Damilare(Github username:Damilare186) , Oyebanji Opetosoluwa Emmanuel(Github username:Xavane) — UI/UX design
+- Oyewumi Damilare(Github username:Damilare186) - Documentation , Oyebanji Opetosoluwa Emmanuel(Github username:Xavane) — UI/UX design
 
 ## Contact
 
