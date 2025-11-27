@@ -378,8 +378,5 @@ npm run typecheck
 - Look at `vite.config.ts` for aliases and plugin configurations.
 - Check `tailwind.config.js` for design tokens and customizations.
 
----
-
-If you'd like, I can also add a `.github/` PR template, a small CONTRIBUTING.md, or a `.vscode/extensions.json` with recommended extensions. Tell me which of those you'd like and I can add them.
 
 <!-- End of README -->
